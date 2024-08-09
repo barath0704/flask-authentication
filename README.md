@@ -63,6 +63,11 @@ A simple Flask web application featuring user authentication, secure password ha
 
 ![image](https://github.com/user-attachments/assets/272a2340-f83a-44ce-9e75-6f1f7bde006e)
 
+![image](https://github.com/user-attachments/assets/f9014665-5eda-4f02-9755-02ac8315e5e9)
+
+![image](https://github.com/user-attachments/assets/81ce9544-7dc7-43e6-b98c-0faacac1ca2f)
+
+
 ![image](https://github.com/user-attachments/assets/8e92e668-94fc-4abd-95a3-613ab73b591e)
 
 ![image](https://github.com/user-attachments/assets/d1b3d5e5-5c20-4717-bd64-cc9e1f862eb3)
